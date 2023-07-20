@@ -19,4 +19,4 @@
   <img align="center" alt="Guto-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 ##
-![Snake animation](https://github.com/rafaballerini1/rafaballerini1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gutobelton/gutobelton/blob/output/github-contribution-grid-snake.svg)
